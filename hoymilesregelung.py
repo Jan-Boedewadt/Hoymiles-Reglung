@@ -9,7 +9,7 @@ minimum_wr = 0 # Mimimalwert für Wechselrichter in Watt
 
 dtuIP = '192.168.177.192' # IP Adresse von OpenDTU
 dtuNutzer = 'admin' # OpenDTU Nutzername
-dtuPasswort = 'Jb.20191' # OpenDTU Passwort
+dtuPasswort = 'Passwort' # OpenDTU Passwort
 
 shellyIP = '192.168.1.46' #IP Adresse von Shelly Pro3EM
 NetzSollwert = 450   #Sollwert in Watt für den Netzwert, negative werte bedeuten Einspeisung
